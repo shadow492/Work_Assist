@@ -1,1 +1,2 @@
 yagmail
+st_pages
